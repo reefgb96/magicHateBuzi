@@ -47,6 +47,6 @@ sendBtn.addEventListener("click", () => {
 
 againBtn.addEventListener("click", () => {
   imgBuzi.classList.remove("animation");
-  imgBuzi.src = "../img/bozu22.png";
+  imgBuzi.src = "bozu22.png";
   ans.textContent = "";
 });
